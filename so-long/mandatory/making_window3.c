@@ -6,7 +6,7 @@
 /*   By: mattif <mattif@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/13 02:03:33 by mattif            #+#    #+#             */
-/*   Updated: 2022/02/17 22:28:41 by mattif           ###   ########.fr       */
+/*   Updated: 2022/02/21 19:03:18 by mattif           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -97,7 +97,7 @@ void	print_mape(t_data *my)
 	my->img_1 = mlx_xpm_file_to_image(my->mlx_ptr, my->path, &my->w, &my->h);
 	my->path = "./image/ground.xpm";
 	my->img_0 = mlx_xpm_file_to_image(my->mlx_ptr, my->path, &my->w, &my->h);
-	my->path = "./image/player.xpm";
+	my->path = "./image/player1.xpm";
 	my->img_p = mlx_xpm_file_to_image(my->mlx_ptr, my->path, &my->w, &my->h);
 	my->path = "./image/door1.xpm";
 	my->img_e = mlx_xpm_file_to_image(my->mlx_ptr, my->path, &my->w, &my->h);
