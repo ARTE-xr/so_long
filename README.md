@@ -21,8 +21,9 @@ first graphic project in 42 network.
   ``` 
   * Clone the project and access the folder
     git clone git@github.com:ARTE-xr/so_long.git
- - Run make so you can build the game
-  make
+    
+  * Run make so you can build the game
+    make
 
   * Run make with bonus if you want to build game with enemies and animations
     make bonus
@@ -31,7 +32,7 @@ first graphic project in 42 network.
     ./so_long_bonus "map_name"
 
   * Clean output objects with
-  make fclean
+    make fclean
 
   # Well done!
   ```
