@@ -14,8 +14,7 @@ first graphic project in 42 network.
  * Imperative programming
 
 # Gameplay
-
-![screenshot] (file:///Users/mattif/Desktop/Screen%20Shot%202022-02-21%20at%203.52.38%20PM.png)
+<img width="2432" alt="Screen Shot 2022-02-21 at 3 52 38 PM" src="https://user-images.githubusercontent.com/87387352/154996130-feabdb1d-43d1-4056-84d0-e2aebdb55d02.png">
 
 # how to play
 
